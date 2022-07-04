@@ -1,11 +1,15 @@
 # Calculate the value for free shipping and show message
 
-https://img.shields.io/github/license/thailoeduardo/wp-wc-calculate-missing-amount-for-free-shipping?style=for-the-badge
-https://img.shields.io/github/stars/thailoeduardo/wp-wc-calculate-missing-amount-for-free-shipping?style=for-the-badge
+[![GitHub license](https://img.shields.io/github/license/thailoeduardo/wp-wc-calculate-missing-amount-for-free-shipping?style=for-the-badge)](https://github.com/thailoeduardo/wp-wc-calculate-missing-amount-for-free-shipping/blob/master/LICENSE)
+
+[![GitHub stars](https://img.shields.io/github/stars/thailoeduardo/wp-wc-calculate-missing-amount-for-free-shipping?style=for-the-badge)](https://github.com/thailoeduardo/wp-wc-calculate-missing-amount-for-free-shipping/stargazers)
+
+[![GitHub forks](https://img.shields.io/github/forks/thailoeduardo/wp-wc-calculate-missing-amount-for-free-shipping?style=for-the-badge)](https://github.com/thailoeduardo/wp-wc-calculate-missing-amount-for-free-shipping/network)
 
 ## Wordpress and Woocommerce
 
-When choosing the chosen zone, the function to calculate the remaining value for free shipping and display the message of the missing value if it does not show the message of free shipping
+When choosing the chosen zone, the function to calculate the remaining value for free shipping and display the message of the missing value if it does not show the message of free shipping.
+
 ✨Magic ✨
 
 ## Tech
